@@ -1,4 +1,4 @@
-FROM wise2c/weblogic1035:latest
+FROM alanpeng/weblogic1036:latest
 
 MAINTAINER Alan Peng <peng.alan@gmail.com>
 
